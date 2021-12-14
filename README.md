@@ -6,7 +6,7 @@ Repositório referente aos estudos realizados na escola de tecnologia Alura. Aqu
 ## Análises preliminares
 ~> [analises_preliminares.ipynb](https://github.com/brunodleite/alura_reg_linear_II/blob/main/analises_preliminares.ipynb)
 ## Análises gráficas
--> 
+-> [analises_graficas.ipynb](https://github.com/brunodleite/alura_reg_linear_II/blob/main/analises_graficas.ipynb)
 ## Transformação de variáveis
 -> 
 ## Regressão linear com StatsModels
