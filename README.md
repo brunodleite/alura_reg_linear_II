@@ -8,7 +8,7 @@ Repositório referente aos estudos realizados na escola de tecnologia Alura. Aqu
 ## Análises gráficas
 -> [analises_graficas.ipynb](https://github.com/brunodleite/alura_reg_linear_II/blob/main/analises_graficas.ipynb)
 ## Transformação de variáveis
--> 
+-> [transformacao_de_variaveis.ipynb](https://github.com/brunodleite/alura_reg_linear_II/blob/main/transformacao_de_variaveis.ipynb)
 ## Regressão linear com StatsModels
 -> 
 ## Regressão linear com Scikit Learn
