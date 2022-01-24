@@ -10,7 +10,7 @@ Repositório referente aos estudos realizados na escola de tecnologia Alura. Aqu
 ## Transformação de variáveis
 -> [transformacao_de_variaveis.ipynb](https://github.com/brunodleite/alura_reg_linear_II/blob/main/transformacao_de_variaveis.ipynb)
 ## Regressão linear com StatsModels
--> 
+-> [regressao_linear_statsmodel.ipynb](https://github.com/brunodleite/alura_reg_linear_II/blob/main/regressao_linear_statsmodel.ipynb)
 ## Regressão linear com Scikit Learn
 -> 
 
