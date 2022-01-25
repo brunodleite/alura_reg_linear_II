@@ -12,5 +12,5 @@ Repositório referente aos estudos realizados na escola de tecnologia Alura. Aqu
 ## Regressão linear com StatsModels
 -> [regressao_linear_statsmodel.ipynb](https://github.com/brunodleite/alura_reg_linear_II/blob/main/regressao_linear_statsmodel.ipynb)
 ## Regressão linear com Scikit Learn
--> 
+-> [regressao_linear_scikitlearn.ipynb](https://github.com/brunodleite/alura_reg_linear_II/blob/main/regressao_linear_scikitlearn.ipynb)
 
