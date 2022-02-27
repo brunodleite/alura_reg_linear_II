@@ -2,6 +2,8 @@
 
 Repositório referente aos estudos realizados na escola de tecnologia Alura. Aqui estão dispostos os notebooks e explicações dos passos realizados durante o aprendizado.
 
+# Projeto Completo: [projeto_regressao_linear_II.ipynb](https://github.com/brunodleite/alura_reg_linear_II/blob/main/projeto_regressao_linear_II.ipynb)
+
 # Aulas
 ## Análises preliminares
 ~> [analises_preliminares.ipynb](https://github.com/brunodleite/alura_reg_linear_II/blob/main/analises_preliminares.ipynb)
