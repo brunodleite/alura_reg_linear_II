@@ -14,3 +14,16 @@ Repositório referente aos estudos realizados na escola de tecnologia Alura. Aqu
 ## Regressão linear com Scikit Learn
 -> [regressao_linear_scikitlearn.ipynb](https://github.com/brunodleite/alura_reg_linear_II/blob/main/regressao_linear_scikitlearn.ipynb)
 
+# Após finalizar o curso, minhas habilidades adquiridas foram:
+
+~> Aplicar transformações antes de treinar os modelos
+
+~> Aplicar regressões com Statsmodel e Sklearn
+
+~> Aprendertécnicas Avançadas de Modelagem
+
+~> Obter previsões pontuais
+
+~> Interpretar coeficientes estimados
+
+~> Efetuar análises gráficas dos resultados encontrados
