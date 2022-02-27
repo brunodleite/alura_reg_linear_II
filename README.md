@@ -22,7 +22,7 @@ Repositório referente aos estudos realizados na escola de tecnologia Alura. Aqu
 
 ~> Aplicar regressões com Statsmodel e Sklearn
 
-~> Aprendertécnicas Avançadas de Modelagem
+~> Aprender técnicas Avançadas de Modelagem
 
 ~> Obter previsões pontuais
 
